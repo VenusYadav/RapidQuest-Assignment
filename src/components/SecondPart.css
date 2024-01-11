@@ -1,0 +1,97 @@
+.wantto_Second_part
+{
+    padding-right: 30px;
+}
+
+.img-profileName
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-img
+{
+    border-radius: 40px;
+}
+
+.profileName 
+{
+    margin-left: 4%;
+    margin-top: -20px;
+}
+
+.profileName-p
+{
+    margin-top: -22px;
+}
+
+.dolor1-para
+{
+    margin-top: -10px;
+    
+}
+
+.dolor
+{
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.para
+{
+   margin-top: -20px;
+   color: gray;
+}
+
+.options
+{
+    display: flex;
+    flex-direction: column;
+     background-color: rgb(126, 126, 235);
+     color: white;
+     border-radius: 5px;
+     position: absolute;
+}
+
+
+.toggle_button
+{
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+button
+{
+   width: 110px;
+}
+
+.selectedOption {
+    background-color: #3498db;
+    color: white; 
+     padding: 5px; 
+    display: inline-block; 
+  }
+
+.transaction-details
+{
+     margin-top: 40px;
+     
+}
+
+.details
+{
+    margin-top: -15px ;
+}
+.date
+{
+    color: gray;
+}
+.bandDetails_hr
+{
+    margin-top: -10px;
+    margin-bottom: -10px;
+    color: gray;
+}
+
+

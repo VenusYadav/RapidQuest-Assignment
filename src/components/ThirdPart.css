@@ -1,0 +1,128 @@
+.Graph_Second_part
+{
+    padding-right: 22px;
+   
+}
+
+.third_first_ele
+{
+    color: blue;
+}
+
+.third_sec_ele
+{
+    margin-top: -20px;
+}
+
+.third_third_ele
+{
+  display: flex;
+  gap: 50px;
+  align-items: baseline;
+  justify-content: baseline;
+  margin-top: -20px;
+}
+.money_para_hr
+{
+    width: 500px;
+}
+
+.third_p
+{
+     margin-top: -20px;
+     color: gray;
+}
+
+.third_hr_blue
+{
+      color: blue;
+      border-top: 1px solid blue;
+      margin-top: -5px;
+}
+
+.dot1
+{
+    width: 15px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(21, 21, 100);
+}
+.dot2
+{
+    width: 15px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(39, 39, 201);
+}
+.dot3
+{
+    width: 15px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(83, 83, 243);
+}
+
+.ks_value
+{
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
+    gap: 10px;  
+   
+}
+
+.contri_overtime
+{
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
+    gap: 30px;
+}
+
+.contri_heading
+{
+    margin-top: 40px;
+}
+
+.graphg_contri
+{
+     margin-top: -20px;
+}
+
+.compare_para
+{
+    margin-top: -15px;
+    color: gray;
+}
+.age_sal_gen_avg_top_me
+{
+    display: flex;
+    gap: 40px;
+}
+
+.age_sal_gen
+{
+    width: 200px;
+}
+
+.Age,
+.Salary,
+.Gender
+{
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
+}
+
+.compare_hr
+{
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+.Age_para,
+.Salary_para,
+.Gender_para
+{
+    margin-left: 10px;
+}
