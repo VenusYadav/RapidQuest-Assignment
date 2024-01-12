@@ -43,7 +43,7 @@ function ThirdPart()
                         <h5>K 244,313</h5>
                    </div>
                 </div>
-                <img src='https://i.im.ge/2024/01/10/3CzXKK.mockuplike-graph-img.jpg' width='' height=''></img>
+                <img src='https://i.im.ge/2024/01/10/3CzXKK.mockuplike-graph-img.jpg' width='' height='' alt="img" ></img>
             </div>
             
             <div className='compare_age_sal_gen'>
@@ -57,7 +57,7 @@ function ThirdPart()
                           <hr className='compare_hr'></hr>
                           <div className='Gender'><h4>Gender:</h4> <p className='Gender_para'> Male ⮟</p></div>  
                     </div>
-                    <img className='avg_top_me' src='https://i.im.ge/2024/01/11/3EDdo4.mockuplike-avg-top-me-img.png' width='' height=''></img>
+                    <img className='avg_top_me' src='https://i.im.ge/2024/01/11/3EDdo4.mockuplike-avg-top-me-img.png' width='' height='' alt="img" ></img>
                  </div>
             </div>
         </div>
