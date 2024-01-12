@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter as Router, Route, Link, Routes,Switch} from 'react-router-dom';
+import { BrowserRouter as Router, Route, Link, Routes} from 'react-router-dom';
 import { useState } from 'react';
 import HomePage from './components/HomePage';
 import List1Page from './List1Page';
