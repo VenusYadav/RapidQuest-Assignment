@@ -21,9 +21,8 @@ function App() {
 
   const [activeIcon, setActiveIcon] = useState(null);
 
-  // Update the click handlers to set the active icon
   const handleIconClick = (iconName) => {
-    setIsSearchVisible(false); // Close the search bar if open
+    setIsSearchVisible(false); 
     setActiveIcon(iconName);
   };
 
