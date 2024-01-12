@@ -17,7 +17,7 @@ function SecondPart()
     return(
            <div className='wantto_Second_part'>
                  <div className='img-profileName'>
-                    <img className ='profile-img' src='https://img.freepik.com/free-vector/beautiful-girl-with-ponytail-sunglasses_1196-912.jpg?w=740&t=st=1704774847~exp=1704775447~hmac=6b98b56e0d012034fbeeb4b1f39879c8df29586190fa45b19a56a84a44a10000' width='60px' height='60px'></img>
+                    <img className ='profile-img' src='https://img.freepik.com/free-vector/beautiful-girl-with-ponytail-sunglasses_1196-912.jpg?w=740&t=st=1704774847~exp=1704775447~hmac=6b98b56e0d012034fbeeb4b1f39879c8df29586190fa45b19a56a84a44a10000' alt="img" width='60px' height='60px'></img>
                     <div className='profileName'>
                         <h2>Hi Mike,</h2>
                         <p className='profileName-p'>welcome back</p>
