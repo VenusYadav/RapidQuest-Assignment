@@ -126,3 +126,46 @@
 {
     margin-left: 10px;
 }
+
+@media screen and (max-width: 576px) {
+
+    .graphg_contri img {
+        width: 100%; 
+        height: auto;
+      }
+
+    .third_third_ele
+    {
+       gap: 0px;
+       display: flex;
+    }
+
+    .contri_overtime {
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .graphg_contri {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+    
+    .age_sal_gen_avg_top_me
+    {
+         display: flex;
+         flex-direction: column;
+         gap: 0px;
+    }
+    
+    .Graph_Second_part
+    {
+        margin-top: 60px;
+    }
+  }
+
+  
+
+
+  

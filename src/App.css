@@ -2,7 +2,6 @@
   display: flex;
   /* height: 100vh; */
   overflow: hidden;
-  
 }
 
 .sidebar {
@@ -14,17 +13,16 @@
   padding-top: 20px;
   transition: width 0.3s ease;
   position: fixed;
-  top: 0; 
+  top: 0;
   bottom: 0;
 }
 
-.search-container
-{
+.search-container {
   margin-top: 20px;
   margin-left: 50px;
   position: relative;
-  
 }
+
 .search-icon {
   cursor: pointer;
   position: absolute;
@@ -38,25 +36,21 @@
   position: absolute;
 }
 
-.home
-{
+.home {
   margin-top: 100px;
 }
 
 .list1,
 .list2,
-.contact
-{
+.contact {
   margin-top: 10px;
 }
 
-.notification
-{
+.notification {
   margin-top: 260px;
 }
 
-.logout-icon
-{
+.logout-icon {
   margin-top: 10px;
 }
 
@@ -73,16 +67,51 @@
   cursor: pointer;
 }
 
-.butterfly-img img{
+.butterfly-img img {
   border-radius: 40px;
-  margin-left: 6px; 
+  margin-left: 6px;
 }
 
 
+@media screen and (max-width: 0px) {
+  .app-container {
+    flex-direction: column;
+  }
 
+  .sidebar {
+    width: 100%;
+    position: static;
+    height: auto;
+    padding: 20px;
+    align-items: flex-start;
+  }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .search-container {
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .search-icon,
+  .search-input {
+    position: static;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  .home,
+  .list1,
+  .list2,
+  .contact,
+  .notification,
+  .logout-icon {
+    margin-top: 20px;
+  }
+
+  .right-side-content {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 0;
+    margin-left: 0;
   }
 }
